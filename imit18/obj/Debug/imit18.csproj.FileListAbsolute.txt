@@ -1,0 +1,7 @@
+C:\Users\Артём\source\repos\imit18\imit18\obj\Debug\imit18.csprojAssemblyReference.cache
+C:\Users\Артём\source\repos\imit18\imit18\obj\Debug\imit18.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\imit18\imit18\bin\Debug\imit18.exe.config
+C:\Users\Артём\source\repos\imit18\imit18\bin\Debug\imit18.exe
+C:\Users\Артём\source\repos\imit18\imit18\bin\Debug\imit18.pdb
+C:\Users\Артём\source\repos\imit18\imit18\obj\Debug\imit18.exe
+C:\Users\Артём\source\repos\imit18\imit18\obj\Debug\imit18.pdb
